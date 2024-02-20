@@ -1,4 +1,10 @@
 <resources>
+    <string name="next">Siguiente</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="previous">Anterior</string>
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="title_activity_2">Actividad principal</string>
     <string name="app_name">Application #1</string>
     <string name="User">Users</string>
     <string name="btn1">Ingresar</string>
